@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1461800988 source:c:\users\administrator\desktop\新建文件夹\trabapractdos\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1461800988 c:\users\administrator\desktop\新建文件夹\trabapractdos\funciones.h
+
+1461799766 source:c:\users\administrator\desktop\新建文件夹\trabapractdos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
